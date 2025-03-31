@@ -22,12 +22,7 @@ Todos os recursos são **open source**, rodam **100% localmente**, e têm foco e
 | [Windows10-Debloat](https://github.com/rivaed/Windows10-Debloat) | Script equivalente para Windows 10 |
 | [WinFaxina](https://github.com/rivaed/WinFaxina) | Limpeza geral: temp, update cache, lixeira, prefetch etc |
 | [ativar-win-admin](https://github.com/rivaed/ativar-win-admin) | Ativa a conta de Administrador oculta do Windows |
-| [windows-bypass-oobe-local-account](https://github.com/rivaed/windows-bypass-oobe-local-account) | Cria conta local sem exigir conta Microsoft na instalação |
-| [windows-reset-bios-password](https://github.com/rivaed/windows-reset-bios-password) | Métodos técnicos e legais para lidar com senhas de BIOS esquecidas |
-| [windows-disable-unwanted-services](https://github.com/rivaed/windows-disable-unwanted-services) | Desativa serviços desnecessários que consomem memória e CPU |
-| [windows-cleanup-after-upgrade](https://github.com/rivaed/windows-cleanup-after-upgrade) | Remove restos de atualizações: Windows.old, logs, etc |
-| [windows-auto-backup-task](https://github.com/rivaed/windows-auto-backup-task) | Backup automático com Agendador de Tarefas do Windows |
-| [windows-command-shortcuts](https://github.com/rivaed/windows-command-shortcuts) | Coleção útil de comandos e utilitários para suporte técnico |
+| [EntrarSemConta](https://github.com/rivaed/EntrarSemConta) | Cria conta local no Windows sem exigir conta Microsoft na instalação |
 
 ---
 
